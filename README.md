@@ -29,7 +29,7 @@
 ---
 
 ## Связь:
-- Telegram: [@wladzislaw001](https://t.me/wladzislaw001)
+- Telegram: - Telegram: [@tsarcoin1](https://t.me/tsarcoin1)
 - GitHub: [wladzislaw001/tsarcoin](https://github.com/wladzislaw001/tsarcoin)
 ## Лицензия
 
