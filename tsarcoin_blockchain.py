@@ -29,4 +29,4 @@ blockchain = [create_genesis_block()]
 for i in range(1, 5):
     block = create_next_block(blockchain[-1], f"Блок номер {i}")
     blockchain.append(block)
-    print(json.dumps(block.__dict__, indent=4))
+    print(json.dumps(block.__dict__, indent=4, ensure_ascii=False))
