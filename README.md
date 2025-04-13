@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="logo.png" alt="ЦарьКоин логотип" width="200"/>
+</p>
 # tsarcoin
 # ЦарьКоин — народная криптовалюта будущего
 
